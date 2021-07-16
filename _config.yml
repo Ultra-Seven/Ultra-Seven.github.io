@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Ziyun Wei"
   avatar           : "ziyun.png"
-  bio              : "CS PhD student at Cornell University"
+  bio              : "CS PhD candidate @ Cornell University"
   location         : "Ithaca, NY"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=RVXY1m0AAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -97,14 +97,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "www.linkedin.com/in/ziyun-wei"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "ZiyunWei"
   vine             :
   weibo            :
   xing             :
