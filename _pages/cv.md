@@ -31,9 +31,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-[comment]: <> (Service and leadership)
-
-[comment]: <> (======)
-
-[comment]: <> (* Currently signed in to 43 different slack teams)

@@ -1,7 +1,7 @@
 ---
 title: "Continuous Prefetch for Interactive Data Applications"
 collection: publications
-permalink: /publication/sigmod21-demo-muve
+permalink: /publication/vldb20-paper-khameleon
 date: 2020-08-31
 venue: 'VLDB’20, August 31 - September 4, 2020, Tokyo Japan'
 paperurl: 'http://www.vldb.org/pvldb/vol13/p2297-mohammed.pdf'
