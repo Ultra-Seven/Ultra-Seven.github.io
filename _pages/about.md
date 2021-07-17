@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Computer Science Department at Conell University. My interests are basiclly database systems and interactive data visualizations for latency-sensitive workloads.
+I am a fourth-year PhD student in Computer Science Department at Conell University, advised by Prof. Immanuel Trummer. My research focuses on parallelizing adaptive query processing in database systems and applying optimization models to make data analysis more efficient and accessible.
 
